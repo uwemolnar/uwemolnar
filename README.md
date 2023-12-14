@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tryhackme stats](https://raw.githubusercontent.com/youwe.io/youwe.io/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/uwemolnar/uwemolnar/master/assets/thm_propic.png)
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/youwe.io.png)
 
 
