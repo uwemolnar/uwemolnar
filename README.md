@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![tryhackme stats](https://raw.githubusercontent.com/uwemolnar/uwemolnar/master/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/youwe.io.png)
+
 
 <!--
 **uwemolnar/uwemolnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
